@@ -5,8 +5,8 @@
 
 Участники студенты ДВГУПС, группа БО931ПИА:
 - Морозов Даниил (https://github.com/AdirtKa)
-- Стороженко Егор (https://github.com/LiamHater)
-- Ковшар Давид (https://github.com/Fayylen)
+- Стороженко Егор (https://github.com/Fayylen)
+- Ковшар Давид (https://github.com/LiamHater)
 
 ## Краткое описание проделанной работы
 
